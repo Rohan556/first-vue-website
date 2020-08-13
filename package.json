@@ -2,6 +2,9 @@
   "name": "company-website",
   "description": "A Website of GR.NILA TOURS AND TRAVELS",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.16.3"
+  },
   "author": "roni9184 <rohanmc9184@gmail.com>",
   "license": "MIT",
   "private": true,
